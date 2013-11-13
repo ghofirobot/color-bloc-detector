@@ -1,4 +1,4 @@
-package org.opencv.samples.colorblobdetect;
+package org.opencv.samples.colorblobdetect; // test pull recuste
 
 import java.util.List;
 
